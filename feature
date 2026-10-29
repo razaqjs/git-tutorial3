@@ -1,1 +1,1 @@
-conflict 1
+implementing feature2
